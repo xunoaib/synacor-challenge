@@ -4,7 +4,7 @@
 
 The [Synacor Challenge](https://web.archive.org/web/20230206005149/https://challenge.synacor.com/) was an online programming puzzle created by [Eric Wastl](https://x.com/ericwastl), the mind behind [Advent of Code](https://adventofcode.com).
 
-This repository contains an unmodified archive of my original challenge files now that the official website has been retired. It serves as a reference for those wanting to explore the challenge on their own.
+This repository contains an unmodified archive of my original challenge files (without any accompanying solution code) now that the official website has been retired. It serves as a reference for those wanting to explore the challenge on their own.
 
 ## Files
 
